@@ -1,4 +1,3 @@
-Bank Database System
 This project is a relational database system designed to manage key banking operations, including customer information, account details, transactions, employee records, and branch assignments. It uses a normalized schema to ensure data integrity and efficient relationships.
 
 Features:
